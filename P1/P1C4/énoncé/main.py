@@ -1,3 +1,3 @@
-nom = (priami)
-age = (46)
+nom = ("priami")
+age = (56)
 print(f"je m'appelle {nom} et j'ai {age}")
