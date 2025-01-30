@@ -1,1 +1,2 @@
-# Écrivez votre code ici !
+nom = (priami)
+age = (46)
