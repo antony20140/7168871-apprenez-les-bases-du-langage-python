@@ -5,3 +5,5 @@ fruits=["pomme"]="vert"
 del fruits["orange"]
  print(fruits)
 {'pomme': 'vert', 'banane': 'jaune', 'pommes': 'vert'}
+print(fruits.keys())
+dict_keys(['pomme', 'banane', 'pommes'])
